@@ -32,10 +32,21 @@ Please make sure to run the tests (`npm test`) before you commit your changes.
 
 ## Help needed
 
-Please checkout the [the open issues][issues]
+Please checkout the [the open issues][issues]. Issues labelled **Help
+Wanted** and **Good First Issue** are especially good to help with.
 
 Also, please watch the repo and respond to questions/bug reports/feature
 requests! Thanks!
+
+## Deploying (access only)
+
+If you have access to the npm project, run the following:
+
+```bash
+npm run deploy
+```
+
+Follow the prompts to release.
 
 [all-contributors]: https://github.com/all-contributors/all-contributors
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
